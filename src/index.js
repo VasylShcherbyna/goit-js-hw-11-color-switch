@@ -1,6 +1,3 @@
-import creatCardsMenu from '../templates/card.hbs';
-import menu from '../menu.json';
-
 const colors = [
   '#FFFFFF',
   '#2196F3',
